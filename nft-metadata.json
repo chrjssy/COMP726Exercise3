@@ -1,0 +1,12 @@
+{
+    "attributes" : [ {
+      "trait_type" : "Breed",
+      "value" : "Gorilla"
+    }, {
+      "trait_type" : "Eye color",
+      "value" : "Mocha"
+    } ],
+    "description" : "The world's most sensitive gorilla.",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmUe8NMP3WyWq75tQYz1CCDByZR25strDTgXNvx5nx3zfq",
+    "name" : "Harambe"
+}
